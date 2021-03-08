@@ -3,4 +3,5 @@
     <string name="hint_name">Usuario</string>
     <string name="pass">Contrasena</string>
     <string name="aceptar">Aceptar</string>
+    <string name="bienvenidos">Bienvenido</string>
 </resources>
